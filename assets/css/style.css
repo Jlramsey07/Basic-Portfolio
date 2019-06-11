@@ -1,10 +1,10 @@
 h1 {
     float: left;
-    padding: 1px;
+    padding: .5px;
     background: #4aaaa5;
-    margin-left: 185px;
+    margin-left: 193px;
     font-family: 'Times New Roman', Times, serif; 
-    margin-bottom: 0px;
+    margin-bottom: 1px;
     padding: 20px;
 }
 
@@ -12,6 +12,7 @@ div.top {
     clear: both;
     background-image: url("dark-grey-terrazzo.png");
     height: 600px;
+    border:5px solid #dddddd;
 
 }
 
@@ -22,11 +23,8 @@ div.text {
     display: inline-block;
     margin-top: 100px;
     width:960px;
-    border: 10px;
     padding:10px;
     border: 5px solid #dddddd;
-    
-    
 }
 
 
